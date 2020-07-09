@@ -9,13 +9,13 @@ entries:
       name: node-feature-discovery
       repository: ""
       version: 0.1.0
-    description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+    description: dllehr81 GPU Operator creates/configures/manages GPUs atop Kubernetes
     digest: d67294e0fff3c92f987bfbe1ad0f4f784be3c8f6a94802730f910fffa35ef9f3
-    home: https://github.com/NVIDIA/gpu-operator
+    home: https://github.com/dllehr81/gpu-operator
     kubeVersion: '>= 1.13.0-0'
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.1.7.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.1.7.tgz
     version: 1.1.7
   - apiVersion: v2
     appVersion: 1.1.6
@@ -25,13 +25,13 @@ entries:
       name: node-feature-discovery
       repository: ""
       version: 0.1.0
-    description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+    description: dllehr81 GPU Operator creates/configures/manages GPUs atop Kubernetes
     digest: b8f436bf0d7340c5004212b27f2b17ae15715bffcd94a9312ff8271add10af47
-    home: https://github.com/NVIDIA/gpu-operator
+    home: https://github.com/dllehr81/gpu-operator
     kubeVersion: '>= 1.13.0-0'
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.1.6.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.1.6.tgz
     version: 1.1.6
   - apiVersion: v2
     appVersion: 1.1.5
@@ -41,13 +41,13 @@ entries:
       name: node-feature-discovery
       repository: ""
       version: 0.1.0
-    description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+    description: dllehr81 GPU Operator creates/configures/manages GPUs atop Kubernetes
     digest: d53f94d7998d8e608072a321a4146b256103a5d50a9a22376d4634ecc4151a8b
-    home: https://github.com/NVIDIA/gpu-operator
+    home: https://github.com/dllehr81/gpu-operator
     kubeVersion: '>= 1.13.0-0'
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.1.5.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.1.5.tgz
     version: 1.1.5
   - apiVersion: v2
     appVersion: 1.1.4
@@ -57,13 +57,13 @@ entries:
       name: node-feature-discovery
       repository: ""
       version: 0.1.0
-    description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+    description: dllehr81 GPU Operator creates/configures/manages GPUs atop Kubernetes
     digest: 470519d18ebb545461ab6fceb0cb77ccad19749382928236e5577f7d13c568e7
-    home: https://github.com/NVIDIA/gpu-operator
+    home: https://github.com/dllehr81/gpu-operator
     kubeVersion: '>= 1.13.0-0'
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.1.4.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.1.4.tgz
     version: 1.1.4
   - apiVersion: v2
     appVersion: 1.1.0
@@ -73,13 +73,13 @@ entries:
       name: node-feature-discovery
       repository: ""
       version: 0.1.0
-    description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+    description: dllehr81 GPU Operator creates/configures/manages GPUs atop Kubernetes
     digest: 68dec1e5b0acc890a71912ff4109371ea9e65b41af1a8e37d0852ece7e45ff1d
-    home: https://github.com/NVIDIA/gpu-operator
+    home: https://github.com/dllehr81/gpu-operator
     kubeVersion: '>= 1.13.0-0'
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.1.0.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
@@ -88,6 +88,6 @@ entries:
     digest: 44704de699c019778ecf2a4ec521739373328bfba690d54b3826e31d0b4d66fd
     name: gpu-operator
     urls:
-    - https://nvidia.github.io/gpu-operator/stable/gpu-operator-1.0.0.tgz
+    - https://dllehr81.github.io/gpu-operator/stable/gpu-operator-1.0.0.tgz
     version: 1.0.0
 generated: "2020-05-14T00:57:56.791829319Z"
