@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: quay.io/kubernetes_incubator/node-feature-discovery
+  repository: registry.redhat.io/openshift4/ose-node-feature-discovery
   pullPolicy: IfNotPresent
 imagePullSecrets: []
   

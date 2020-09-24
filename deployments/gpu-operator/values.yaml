@@ -29,7 +29,7 @@ platform:
   openshift: false
 
 operator:
-  repository: nvidia
+  repository: dllehr
   image: gpu-operator
 # If not set, the tag defaults to Chart.AppVersion
 # tag: "foo"
@@ -59,21 +59,21 @@ operator:
                 values: [""]
 
 driver:
-  repository: nvidia
+  repository: dllehr
   image: driver
   version: "440.64.00"
 
 toolkit:
-  repository: nvidia
+  repository: dllehr
   image: container-toolkit
   version: 1.0.2
 
 devicePlugin:
-  repository: nvidia
+  repository: dllehr
   image: k8s-device-plugin
   version: 1.0.0-beta6
 
 dcgmExporter:
-  repository: nvidia
+  repository: dllehr
   image: dcgm-exporter
-  version: 1.7.2-2.0.0-rc.9-ubuntu18.04
+  version: 1.7.2-2.0.0-rc.9-ubi8
